@@ -1,7 +1,7 @@
 # Binary Classification with a Bank Dataset
 
 ## Overview
-This repository contains a side project. The goal is to predict whether a banking client will subscribe to a term deposit using the Kaggle *Binary Classification with a Bank Dataset*. The project showcases a full workflow: exploratory analysis, feature selection, imbalance handling, model tuning, and an AutoML benchmark.
+The goal is to predict whether a banking client will subscribe to a term deposit using the Kaggle *Binary Classification with a Bank Dataset*. The project showcases a full workflow: exploratory analysis, feature selection, imbalance handling, model tuning, and an AutoML benchmark.
 
 ## Dataset
 - **Source**: Kaggle competition [Binary Classification with a Bank Dataset](https://www.kaggle.com/competitions/playground-series-s5e8/)
